@@ -1,5 +1,7 @@
 # Rhino: JavaScript in Java
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/5e83f929-97b4-4c1e-85d0-cb2730905646.svg?orgId=604336610407)](https://app.soluble.cloud/repos/details/github.com/jefferyfry/rhino?orgId=604336610407)  
+
 ![Rhino](https://developer.mozilla.org/@api/deki/files/832/=Rhino.jpg)
 
 Rhino is an implementation of JavaScript in Java.
